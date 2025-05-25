@@ -59,7 +59,7 @@ SmartPlantCareSystem is an innovative project aimed at automating the care of pl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/SmartPlantCareSystem.git
+git clone https://github.com/chicc12/SmartPlantCareSystem.git
 
 ```
 2. Install required Python packages:
@@ -83,7 +83,7 @@ python server/AI_Detection_Server.py
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
 ##  Author(s)
-- Your Name / Organization Name ([GitHub Profile](https://github.com/your_username))
+- chicc12 ([GitHub Profile](https://github.com/chicc12))
 
 ##  License
 Dự án này được cấp phép theo Giấy phép MIT - xem file `LICENSE` để biết chi tiết.
