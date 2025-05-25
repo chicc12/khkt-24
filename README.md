@@ -59,7 +59,7 @@ SmartPlantCareSystem is an innovative project aimed at automating the care of pl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/chicc12/SmartPlantCareSystem.git
+git clone https://github.com/YOUR_NAME/SmartPlantCareSystem.git
 
 ```
 2. Install required Python packages:
