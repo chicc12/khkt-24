@@ -25,7 +25,6 @@ SmartPlantCareSystem is an innovative project aimed at automating the care of pl
 /
 ├── arduino/
 │   ├── CHAM_SOC_CAY.ino
-│   └── ESP32_Code.md
 ├── app/
 │   └── CHAM_SOC_CAY_TRONG.aia
 ├── assets/
